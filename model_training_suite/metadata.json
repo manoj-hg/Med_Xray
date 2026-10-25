@@ -1,0 +1,6 @@
+{
+  "name": "ROCOv2 Multimodal Training & Model Artifacts Suite",
+  "description": "Trained ROCOv2 multimodal medical concept detection models (SimpleCNN, ResNet50, ViT-B/16, ViT+Text Fusion), evaluation benchmarks, and downloadable PyTorch model weights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

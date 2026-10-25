@@ -1,0 +1,12 @@
+{
+  "model": "cnn",
+  "threshold": 0.2,
+  "num_labels": 500,
+  "text_dim": 4000,
+  "test_metrics": {
+    "f1_samples": 0.3713,
+    "f1_micro": 0.3369,
+    "precision_micro": 0.4051,
+    "recall_micro": 0.2883
+  }
+}

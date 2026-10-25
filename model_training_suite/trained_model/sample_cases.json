@@ -1,0 +1,170 @@
+[
+  {
+    "id": "ROCOv2_2023_test_000001",
+    "image": "/rocov2_model/samples/ROCOv2_2023_test_000001.jpg",
+    "caption": "CT chest axial view showing a huge ascending aortic aneurysm (*).",
+    "true_cuis": [
+      {
+        "cui": "C0040405",
+        "name": "X-Ray Computed Tomography"
+      }
+    ]
+  },
+  {
+    "id": "ROCOv2_2023_test_000002",
+    "image": "/rocov2_model/samples/ROCOv2_2023_test_000002.jpg",
+    "caption": "Computed tomography (CT) shows floating thrombosis (white arrow)",
+    "true_cuis": [
+      {
+        "cui": "C0040405",
+        "name": "X-Ray Computed Tomography"
+      },
+      {
+        "cui": "C0040053",
+        "name": "Thrombosis"
+      }
+    ]
+  },
+  {
+    "id": "ROCOv2_2023_test_000003",
+    "image": "/rocov2_model/samples/ROCOv2_2023_test_000003.jpg",
+    "caption": "Digitally subtracted angiogram demonstrates active extravasation of the superior rectal artery into the ileal-conduit (blue arrow)",
+    "true_cuis": [
+      {
+        "cui": "C0002978",
+        "name": "angiogram"
+      }
+    ]
+  },
+  {
+    "id": "ROCOv2_2023_test_000004",
+    "image": "/rocov2_model/samples/ROCOv2_2023_test_000004.jpg",
+    "caption": "Digitally subtracted angiogram of the IMA demonstrated cessation of flow through the proximal superior rectal artery in the region of the intersection between the artery and ureter with retained perfusion of the rectosigmoid region and resolution of active extravasation",
+    "true_cuis": [
+      {
+        "cui": "C0002978",
+        "name": "angiogram"
+      },
+      {
+        "cui": "C0034052",
+        "name": "Pulmonary artery structure"
+      }
+    ]
+  },
+  {
+    "id": "ROCOv2_2023_test_000005",
+    "image": "/rocov2_model/samples/ROCOv2_2023_test_000005.jpg",
+    "caption": "Angle measurement of a Type 1 canal.",
+    "true_cuis": [
+      {
+        "cui": "C0040405",
+        "name": "X-Ray Computed Tomography"
+      }
+    ]
+  },
+  {
+    "id": "ROCOv2_2023_test_000006",
+    "image": "/rocov2_model/samples/ROCOv2_2023_test_000006.jpg",
+    "caption": "Computed tomography on day 26Follow-up enhanced computed tomography on day 26 revealed no apparent progression of left iliopsoas hematoma, and no extravasation of contrast media was seen.",
+    "true_cuis": [
+      {
+        "cui": "C0040405",
+        "name": "X-Ray Computed Tomography"
+      },
+      {
+        "cui": "C0224417",
+        "name": "Structure of iliopsoas muscle"
+      },
+      {
+        "cui": "C0018944",
+        "name": "Hematoma"
+      }
+    ]
+  },
+  {
+    "id": "ROCOv2_2023_test_000007",
+    "image": "/rocov2_model/samples/ROCOv2_2023_test_000007.jpg",
+    "caption": "Enhanced CT scan of the chest revealed an anterior mediastinal tumor (black arrow).",
+    "true_cuis": [
+      {
+        "cui": "C0040405",
+        "name": "X-Ray Computed Tomography"
+      },
+      {
+        "cui": "C0025066",
+        "name": "Mediastinum"
+      },
+      {
+        "cui": "C0027651",
+        "name": "Neoplasms"
+      }
+    ]
+  },
+  {
+    "id": "ROCOv2_2023_test_000008",
+    "image": "/rocov2_model/samples/ROCOv2_2023_test_000008.jpg",
+    "caption": "Arrow shows ULP at the distal arch.",
+    "true_cuis": [
+      {
+        "cui": "C0040405",
+        "name": "X-Ray Computed Tomography"
+      }
+    ]
+  },
+  {
+    "id": "ROCOv2_2023_test_000009",
+    "image": "/rocov2_model/samples/ROCOv2_2023_test_000009.jpg",
+    "caption": "Early sagittal T2-weighted MRI.",
+    "true_cuis": [
+      {
+        "cui": "C0024485",
+        "name": "Magnetic Resonance Imaging"
+      }
+    ]
+  },
+  {
+    "id": "ROCOv2_2023_test_000010",
+    "image": "/rocov2_model/samples/ROCOv2_2023_test_000010.jpg",
+    "caption": "Late axial T2-weighted MRI.",
+    "true_cuis": [
+      {
+        "cui": "C0024485",
+        "name": "Magnetic Resonance Imaging"
+      }
+    ]
+  },
+  {
+    "id": "ROCOv2_2023_test_000011",
+    "image": "/rocov2_model/samples/ROCOv2_2023_test_000011.jpg",
+    "caption": "Transverse US image of the left ovary demonstrates the \u201cstring of pearls\u201d sign.",
+    "true_cuis": [
+      {
+        "cui": "C0041618",
+        "name": "Ultrasonography"
+      }
+    ]
+  },
+  {
+    "id": "ROCOv2_2023_test_000012",
+    "image": "/rocov2_model/samples/ROCOv2_2023_test_000012.jpg",
+    "caption": "Neck CT showing a left lymph node conglomerate with hypodense images due to necrotic changes, loss of cleavage plane with muscle structures, and mass effect on the ipsilateral jugular vein.CT: computed tomography",
+    "true_cuis": [
+      {
+        "cui": "C0040405",
+        "name": "X-Ray Computed Tomography"
+      },
+      {
+        "cui": "C0024204",
+        "name": "lymph nodes"
+      },
+      {
+        "cui": "C0027540",
+        "name": "Necrosis"
+      },
+      {
+        "cui": "C0013609",
+        "name": "Localized Edema"
+      }
+    ]
+  }
+]

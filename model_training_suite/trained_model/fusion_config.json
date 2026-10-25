@@ -1,0 +1,12 @@
+{
+  "model": "fusion",
+  "threshold": 0.25,
+  "num_labels": 500,
+  "text_dim": 4000,
+  "test_metrics": {
+    "f1_samples": 0.6127,
+    "f1_micro": 0.585,
+    "precision_micro": 0.6906,
+    "recall_micro": 0.5074
+  }
+}

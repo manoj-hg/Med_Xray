@@ -1,0 +1,98 @@
+[
+  {
+    "cui": "C0040405",
+    "name": "X-Ray Computed Tomography",
+    "tn": 106,
+    "fp": 10,
+    "fn": 10,
+    "tp": 74
+  },
+  {
+    "cui": "C1306645",
+    "name": "Plain x-ray",
+    "tn": 137,
+    "fp": 11,
+    "fn": 2,
+    "tp": 50
+  },
+  {
+    "cui": "C0024485",
+    "name": "Magnetic Resonance Imaging",
+    "tn": 166,
+    "fp": 6,
+    "fn": 2,
+    "tp": 26
+  },
+  {
+    "cui": "C0041618",
+    "name": "Ultrasonography",
+    "tn": 166,
+    "fp": 8,
+    "fn": 1,
+    "tp": 25
+  },
+  {
+    "cui": "C0817096",
+    "name": "Chest",
+    "tn": 166,
+    "fp": 8,
+    "fn": 2,
+    "tp": 24
+  },
+  {
+    "cui": "C1999039",
+    "name": "Anterior-Posterior",
+    "tn": 161,
+    "fp": 14,
+    "fn": 7,
+    "tp": 18
+  },
+  {
+    "cui": "C1996865",
+    "name": "Postero-Anterior",
+    "tn": 175,
+    "fp": 13,
+    "fn": 5,
+    "tp": 7
+  },
+  {
+    "cui": "C0023216",
+    "name": "Lower Extremity",
+    "tn": 182,
+    "fp": 6,
+    "fn": 2,
+    "tp": 10
+  },
+  {
+    "cui": "C0205207",
+    "name": "Cystic",
+    "tn": 190,
+    "fp": 0,
+    "fn": 3,
+    "tp": 7
+  },
+  {
+    "cui": "C0205129",
+    "name": "Sagittal",
+    "tn": 190,
+    "fp": 2,
+    "fn": 5,
+    "tp": 3
+  },
+  {
+    "cui": "C0002978",
+    "name": "angiogram",
+    "tn": 190,
+    "fp": 2,
+    "fn": 1,
+    "tp": 7
+  },
+  {
+    "cui": "C0030797",
+    "name": "Pelvis",
+    "tn": 189,
+    "fp": 4,
+    "fn": 4,
+    "tp": 3
+  }
+]

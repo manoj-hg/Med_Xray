@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.venv/
+venv/
+env/
+
+# Large model weights (GitHub 100MB limit)
+# Note: Use Git LFS or download weights separately if tracking on GitHub
+*.pt
+*.bin
+*.tar.gz
+rocov2_model_bundle.zip
+
+# Large data
+sample_images/
+rocov2_data/*.csv
+!rocov2_data/cui_mapping.csv
+
+# OS
+.DS_Store
+Thumbs.db

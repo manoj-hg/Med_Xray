@@ -1,0 +1,33 @@
+﻿# Python & Environments
+__pycache__/
+*.py[cod]
+*.class
+*.env
+.venv/
+venv/
+env/
+
+# Node.js Frontend
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Large Model Weights (GitHub 100MB per-file limit)
+*.pt
+*.bin
+*.tar.gz
+rocov2_model_bundle.zip
+
+# Large Raw Datasets
+sample_images/
+train_concepts.csv
+train_captions.csv
+valid_concepts.csv
+valid_captions.csv
+test_concepts.csv
+test_captions.csv
+
+# OS
+.DS_Store
+Thumbs.db

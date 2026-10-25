@@ -1,0 +1,12 @@
+{
+  "model": "vit",
+  "threshold": 0.25,
+  "num_labels": 500,
+  "text_dim": 4000,
+  "test_metrics": {
+    "f1_samples": 0.2801,
+    "f1_micro": 0.2701,
+    "precision_micro": 0.34,
+    "recall_micro": 0.2241
+  }
+}

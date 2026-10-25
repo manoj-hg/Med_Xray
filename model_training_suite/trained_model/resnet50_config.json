@@ -1,0 +1,12 @@
+{
+  "model": "resnet50",
+  "threshold": 0.1,
+  "num_labels": 500,
+  "text_dim": 4000,
+  "test_metrics": {
+    "f1_samples": 0.2237,
+    "f1_micro": 0.2259,
+    "precision_micro": 0.208,
+    "recall_micro": 0.2471
+  }
+}
